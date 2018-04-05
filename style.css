@@ -233,7 +233,7 @@ nav ul li{
 			overflow: visible;
 		}
 .yellow_dotted_line{
-	background-image: url(_images/yellow_dotted_line.png);
+	background-image: url(images/yellow_dotted_line.png);
 	background-repeat: no-repeat;
 	vertical-align: middle;
 	background-position-x: 0px;
